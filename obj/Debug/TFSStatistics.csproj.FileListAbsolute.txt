@@ -1,0 +1,6 @@
+C:\Users\jalal\Documents\GitHub\TFSStatistics\bin\Debug\TFSStatistics.exe.config
+C:\Users\jalal\Documents\GitHub\TFSStatistics\obj\Debug\TFSStatistics.csprojResolveAssemblyReference.cache
+C:\Users\jalal\Documents\GitHub\TFSStatistics\obj\Debug\MainWindow.g.cs
+C:\Users\jalal\Documents\GitHub\TFSStatistics\obj\Debug\App.g.cs
+C:\Users\jalal\Documents\GitHub\TFSStatistics\obj\Debug\TFSStatistics_MarkupCompile.cache
+C:\Users\jalal\Documents\GitHub\TFSStatistics\obj\Debug\TFSStatistics_MarkupCompile.lref
