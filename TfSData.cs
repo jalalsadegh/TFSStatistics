@@ -56,8 +56,8 @@ namespace TFSStatistics
             }
             //int id = workspace.VersionControlServer.GetLatestChangesetId();
 
-            var serverFolder = String.Format("$/{0}", teamProjects[0].Name) + "/misSoloution";
-            var localFolder = "D:/misSolotionTemp/";
+            var serverFolder = String.Format("$/{0}", teamProjects[0].Name) + "/xxxxx";
+            var localFolder = "D:/xxxxxxx/";
             var workingFolder = new WorkingFolder(serverFolder, localFolder);
 
             // Create a workspace mapping.
