@@ -28,9 +28,9 @@ namespace TFSStatistics
         {
 
 
-            Uri adminUiri = new Uri("http://parsiss-server:8080/tfs/MIS-Solution/");
+            Uri adminUiri = new Uri("xxxxxxxxxxxxxxxx");
             TfsTeamProjectCollection projectCollection = new
-            TfsTeamProjectCollection(adminUiri, new System.Net.NetworkCredential("jsadeghi", "Gheladamo55"));
+            TfsTeamProjectCollection(adminUiri, new System.Net.NetworkCredential("xxx", "xxxxx"));
 
 
             projectCollection.EnsureAuthenticated();
